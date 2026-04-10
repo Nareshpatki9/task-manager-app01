@@ -1,35 +1,18 @@
 # Task Manager App
 
-## 🚀 Features
-- Create task
+## Tech Stack
+- Spring Boot
+- HTML, JavaScript
+
+## Features
+- Add task
 - View tasks
-- Mark as completed
+- Mark complete
 - Delete task
 
-## 🛠 Tech Stack
-- Backend: Spring Boot
-- Frontend: HTML, JavaScript
+## Run Steps
+1. Run Spring Boot app
+2. Open index.html
 
-## ▶️ How to Run
-
-### Backend
-1. Open project in IDE
-2. Run Spring Boot application
-3. Server starts at http://localhost:8080
-
-### Frontend
-1. Open index.html in browser
-
-## 📌 API Endpoints
-- GET /tasks
-- POST /tasks
-- PATCH /tasks/{id}
-- DELETE /tasks/{id}
-
-## 📌 Assumptions
+## Notes
 - In-memory storage used
-- No authentication
-- Focus on functionality
-
-## 👨‍💻 Author
-Naresh Patki
